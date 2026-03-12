@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <record id="xml_1" model="hospital.color">
+        <field name="name">XML1</field>
+    </record>
+
+    <record id="xml_2" model="hospital.color">
+        <field name="name">XML2</field>
+    </record>
+
+    <record id="xml_3" model="hospital.color">
+        <field name="name">XML3</field>
+    </record>
+
+    <record id="xml_4" model="hospital.color">
+        <field name="name">XML4</field>
+        <field name="active" eval="False"/>
+    </record>
+</odoo>

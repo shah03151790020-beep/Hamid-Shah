@@ -1,0 +1,5 @@
+id,name,active
+hospital_color_csv1,CSV1,True
+hospital_color_csv2,CSV2,True
+hospital_color_csv3,CSV3,True
+hospital_color_csv4,CSV4,False
